@@ -13,7 +13,7 @@ Considere el escenario ATM. El cajero automático puede estar en varios estados 
 El patrón de estado se puede utilizar aquí para simplificar el diseño. Por ejemplo, cuando es necesario agregar un nuevo estado ATM, se puede hacer fácilmente agregando un nuevo estado. Las otras clases se mantendrán sin cambios.
 ## Modelo de Clases
 ![enter image description here](https://lh3.googleusercontent.com/TE7BF868Ia1enpSzfbGjJOyYa473p8WutJvpJ0yoMlt6e8N3ddCvVcATCQYXTWxEZIr6Rp3UNZcf)
-### Lenguaje:   Java
+### Lenguaje: *Java*
 
 #### Ejecución del Código
 Ejecutar el main en la clase StateClient
