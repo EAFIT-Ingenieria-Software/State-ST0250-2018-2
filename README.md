@@ -20,4 +20,5 @@ Ejecutar el main en la clase StateClient
 
 ### Referencias Bibliográficas
 -App Desing Patterns(Gof)
+
 -wikipedia.org
