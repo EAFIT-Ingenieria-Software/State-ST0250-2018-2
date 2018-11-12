@@ -17,8 +17,3 @@ El patrón de estado se puede utilizar aquí para simplificar el diseño. Por ej
 
 #### Ejecución del Código
 Ejecutar el main en la clase StateClient
-
-### Referencias Bibliográficas
-wikipedia.org
-###cosas
-*App Desing Patterns(Gof)*
