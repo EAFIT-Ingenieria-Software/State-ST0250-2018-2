@@ -1,5 +1,5 @@
 # State-ST0250-2018-2
-### *Cajero en estados*
+### *Cajero con patron de diseño state*
 # State Pattern
 
 ### Nombre de Integrantes
